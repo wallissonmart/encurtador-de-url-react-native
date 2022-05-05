@@ -1,7 +1,7 @@
 <h1 align="left">Encurtador de URL</h1>
 <p align="left">Aplicativo para encurtar URL</p>
 
-<p align="left">
+<p align="left"> •
  <a href="#status">Status</a> •
  <a href="#acessar">Como acessar</a> •
  <a href="#funcionalidades">Funcionalidades</a> • 
@@ -42,7 +42,7 @@ Passo 4: Ler o QR Code gerado após iniciar a aplicação com <strong>npm start<
 - [React Native](https://reactnative.dev/docs/getting-started)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-<h1 align="left" id="imgs">Imagens</h1>
+<h1 align="left" id="imgs">📸 Imagens</h1>
 
 <h3 align="left">Screenshot 1</h3>
 <img src="https://user-images.githubusercontent.com/93344198/149839957-aa2ebdd7-af69-4287-b5c5-9c2df5b6fb61.jpeg" width="230" height="280" />
