@@ -17,6 +17,7 @@
 </h3>
 
 <h1 align="left" id="acessar">👆 Como acessar</h1>
+
 Para ter acesso ao aplicativo é necessário ter o NPM e o Expo instalados.
 
 Passo 1: Clonar repósitorio;
