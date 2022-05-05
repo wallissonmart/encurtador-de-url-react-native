@@ -1,5 +1,5 @@
 <h1 align="left">Encurtador de URL</h1>
-<p align="left">Aplicativo para encurtar URL.</p>
+<p align="left">Aplicativo para encurtar URL</p>
 
 <p align="left">
  <a href="#status">Status</a> •
@@ -17,7 +17,15 @@
 </h3>
 
 <h1 align="left" id="acessar">👆 Como acessar</h1>
-Para acessar o buscador bastar clicar no seguinte link: ---
+Para ter acesso ao aplicativo é necessário ter o NPM e o Expo instalados.
+
+Passo 1: Clonar repósitorio;
+
+Passo 2: Instalar as dependências do projeto através do <strong>npm install</strong>;
+
+Passo 3: Instalar o aplicativo Expo Go em seu celular;
+
+Passo 4: Ler o QR Code gerado após iniciar a aplicação com <strong>npm start</strong>.
 
 <h1 align="left" id="funcionalidades">⚙️ Funcionalidades</h1>
 
